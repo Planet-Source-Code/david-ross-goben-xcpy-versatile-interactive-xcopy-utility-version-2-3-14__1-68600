@@ -1,0 +1,17 @@
+INFO-ZIP Website Link
+http://Info-Zip.org
+
+The above site also has a Zip/Unzip utility (Wzip) if you do not have WinZip. Not as great as WinZip, but really great for Free!
+
+
+VBZIP10.DLL Download link:
+http://www.vbaccelerator.com/home/VB/Code/Libraries/Compression/Introduction_to_the_Info-ZIP_Libraries/Info-ZIP_Zip_DLL_Renamed_vbzip10_dll).zip
+
+Above Web Page, where you can also access sample code:
+http://www.vbaccelerator.com/home/VB/Code/Libraries/Compression/Introduction_to_the_Info-ZIP_Libraries/Info-ZIP_Zip_DLL_(Renamed_vbzip10_dll).asp
+
+VBUZIP10.DLL Download link:
+http://www.vbaccelerator.com/home/VB/Code/Libraries/Compression/Introduction_to_the_Info-ZIP_Libraries/Info-ZIP_Unzip_DLL_(Renamed_vbuzip10_dll).zip
+
+Above Web Page, where you can also access sample code:
+http://www.vbaccelerator.com/home/VB/Code/Libraries/Compression/Introduction_to_the_Info-ZIP_Libraries/Info-ZIP_Unzip_DLL_(Renamed_vbuzip10_dll).asp
